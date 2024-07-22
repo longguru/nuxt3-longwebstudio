@@ -13,6 +13,7 @@
     "@nuxtjs/google-fonts": "^3.2.0",
     "@nuxtjs/seo": "2.0.0-rc.16",
     "@nuxtjs/tailwindcss": "^6.12.1",
-    "nuxt": "^3.12.4"
+    "nuxt": "^3.12.4",
+    "nuxt-gtag": "^2.0.7"
   }
 }
